@@ -1,0 +1,3 @@
+python is object oriented languge
+python is easy to learn
+python standard lybrery helps to build real life projects
